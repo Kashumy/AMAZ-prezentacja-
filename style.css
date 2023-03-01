@@ -1,0 +1,124 @@
+html {
+    font-size: 15pt;
+
+    overflow :hidden ;
+    max-width:900px; 
+    background :#000000;
+    font-family :Arial ;
+}
+html{
+  size: 2%;
+}
+.bb{
+  z-index: -1;
+  position :absolute ;
+  top:-600px;
+  left:-90px;
+      background-image: url("./bb.jpg");
+height:800vh;
+width :210%;
+background-repeat: no-repeat;
+background-size: contain;
+overflow :hidden ;
+max-width:2000px;
+max-height :2000px; 
+}
+
+.u{
+  
+  opacity: 0;
+  color:#00C4FF;
+}
+#u{
+ color :#45C101;
+}
+.u2 {
+
+  opacity: 0;
+  color: #00C4FF;
+}
+.u3 {
+
+  opacity: 0;
+  color: #00FF78;
+}
+#scro{
+  overflow :scroll ;
+  height :800px;
+  background:#000000AB;
+}
+.u4 {
+
+  opacity: 0;
+  color: #29FF00;
+}
+.u5 {
+
+  opacity: 0;
+  color: #00C4FF;
+}
+.u6 {
+
+  opacity: 0;
+  color: #00C4FF;
+}
+.u7 {
+
+  opacity: 0;
+  color: #B10000;
+}
+.u8 {
+
+  opacity: 0;
+  color: #FFB900;
+}
+.u9 {
+
+  opacity: 0;
+  color: #4639BF;
+}
+.u10 {
+
+  opacity: 0;
+  color: #916127;
+}
+.u11 {
+
+  opacity: 0;
+  color: #880074;
+}
+.u12 {
+
+  opacity: 0;
+  color: #00C4FF;
+}
+.u13 {
+
+  opacity: 0;
+  color: #FFD700;
+}
+.u14 {
+
+  opacity: 0;
+  color: #00C4FF;
+}
+.u15 {
+
+  opacity: 0;
+  color: #0062FF;
+}
+.im{
+  position :absolute ;
+  top:20%;
+  left:100%;
+  width :500px;
+}
+#one{
+  display :none ;
+}
+#two{
+  display:none;
+}
+#three {
+  display: none;
+}
